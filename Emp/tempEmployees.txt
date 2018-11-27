@@ -1,0 +1,4 @@
+Matt, 1222 Soncy rd Amarillo, 707, 44, 11.5
+Hana, 444 Hillside Amarillo, 303, 30, 22.7
+Nick, 323 Soncy rd Canyon, 708, 54, 15.5
+Alice, 232 Hillside Dallas, 308, 40, 27.7

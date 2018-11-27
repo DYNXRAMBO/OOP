@@ -1,0 +1,4 @@
+Patt, 1222 Coulter rd Amarillo, 207, 4400, 1100.5
+Dana, 444 Mountside Amarillo, 307, 3000, 220.7
+Bob, 222 Bill st Canyon, 907, 10000, 1100.5
+Charly,555 MountView Amarillo, 901, 9000, 220.7
